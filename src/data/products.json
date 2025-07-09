@@ -1,0 +1,98 @@
+[
+  {
+    "id": "1",
+    "slug": "wireless-headphones",
+    "name": "Premium Wireless Headphones",
+    "price": 199.99,
+    "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=400&h=400&fit=crop&crop=center",
+    "description": "High-quality wireless headphones with noise cancellation, 30-hour battery life, and premium comfort for all-day listening.",
+    "category": "Electronics",
+    "inStock": true,
+    "rating": 4.8,
+    "reviews": 1247
+  },
+  {
+    "id": "2",
+    "slug": "smart-watch",
+    "name": "Smart Fitness Watch",
+    "price": 299.99,
+    "image": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=400&h=400&fit=crop&crop=center",
+    "description": "Advanced fitness tracking, heart rate monitoring, GPS, and smartphone integration in a sleek, waterproof design.",
+    "category": "Electronics",
+    "inStock": true,
+    "rating": 4.6,
+    "reviews": 892
+  },
+  {
+    "id": "3",
+    "slug": "leather-jacket",
+    "name": "Classic Leather Jacket",
+    "price": 249.99,
+    "image": "https://images.unsplash.com/photo-1551028719-00167b16eac5?w=400&h=400&fit=crop&crop=center",
+    "description": "Genuine leather jacket with timeless style, perfect for any season. Made from premium materials with attention to detail.",
+    "category": "Fashion",
+    "inStock": true,
+    "rating": 4.7,
+    "reviews": 567
+  },
+  {
+    "id": "4",
+    "slug": "coffee-maker",
+    "name": "Professional Coffee Maker",
+    "price": 159.99,
+    "image": "https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?w=400&h=400&fit=crop&crop=center",
+    "description": "Brew barista-quality coffee at home with programmable settings, thermal carafe, and precision temperature control.",
+    "category": "Home & Kitchen",
+    "inStock": true,
+    "rating": 4.5,
+    "reviews": 1034
+  },
+  {
+    "id": "5",
+    "slug": "gaming-mouse",
+    "name": "RGB Gaming Mouse",
+    "price": 79.99,
+    "image": "https://images.unsplash.com/photo-1527864550417-7fd91fc51a46?w=400&h=400&fit=crop&crop=center",
+    "description": "High-precision gaming mouse with customizable RGB lighting, programmable buttons, and ergonomic design for competitive gaming.",
+    "category": "Electronics",
+    "inStock": true,
+    "rating": 4.9,
+    "reviews": 2156
+  },
+  {
+    "id": "6",
+    "slug": "yoga-mat",
+    "name": "Eco-Friendly Yoga Mat",
+    "price": 49.99,
+    "image": "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?w=400&h=400&fit=crop&crop=center",
+    "description": "Non-slip, eco-friendly yoga mat made from natural materials. Perfect for yoga, pilates, and general fitness exercises.",
+    "category": "Sports & Fitness",
+    "inStock": true,
+    "rating": 4.4,
+    "reviews": 783
+  },
+  {
+    "id": "7",
+    "slug": "backpack",
+    "name": "Travel Backpack",
+    "price": 89.99,
+    "image": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?w=400&h=400&fit=crop&crop=center",
+    "description": "Durable travel backpack with multiple compartments, laptop sleeve, and water-resistant material for all your adventures.",
+    "category": "Travel",
+    "inStock": true,
+    "rating": 4.6,
+    "reviews": 445
+  },
+  {
+    "id": "8",
+    "slug": "desk-lamp",
+    "name": "LED Desk Lamp",
+    "price": 69.99,
+    "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&h=400&fit=crop&crop=center",
+    "description": "Adjustable LED desk lamp with multiple brightness levels, USB charging port, and energy-efficient design for your workspace.",
+    "category": "Home & Office",
+    "inStock": true,
+    "rating": 4.3,
+    "reviews": 621
+  }
+]
