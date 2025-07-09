@@ -4,7 +4,7 @@ A modern, fully-featured e-commerce application built with Next.js 14, React Que
 
 ## 🚀 Live Demo
 
-[Visit Mini-Commerce](https://mini-commerce.vercel.app)
+[Visit Mini-Commerce](https://mini-commerce-theta-hazel.vercel.app/)
 
 ## 📋 Project Overview
 

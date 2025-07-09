@@ -8,7 +8,7 @@ import { Footer } from '@/components/layout/Footer';
 const inter = Inter({ subsets: ['latin'] });
 
 export const metadata: Metadata = {
-  metadataBase: new URL('https://mini-commerce.vercel.app'),
+  metadataBase: new URL('https://mini-commerce-theta-hazel.vercel.app/'),
   title: {
     default: 'Mini-Commerce - Quality Products at Great Prices',
     template: '%s | Mini-Commerce'
@@ -29,7 +29,7 @@ export const metadata: Metadata = {
   openGraph: {
     type: 'website',
     locale: 'en_US',
-    url: 'https://mini-commerce.vercel.app',
+    url: 'https://mini-commerce-theta-hazel.vercel.app/',
     title: 'Mini-Commerce - Quality Products at Great Prices',
     description: 'Discover amazing products at unbeatable prices. Shop electronics, fashion, home goods and more.',
     siteName: 'Mini-Commerce',
@@ -62,7 +62,7 @@ export default function RootLayout({
   return (
     <html lang="en">
       <head>
-        <link rel="canonical" href="https://mini-commerce.vercel.app" />
+        <link rel="canonical" href="https://mini-commerce-theta-hazel.vercel.app/" />
         <script
           type="application/ld+json"
           dangerouslySetInnerHTML={{
@@ -70,10 +70,10 @@ export default function RootLayout({
               '@context': 'https://schema.org',
               '@type': 'WebSite',
               name: 'Mini-Commerce',
-              url: 'https://mini-commerce.vercel.app',
+              url: 'https://mini-commerce-theta-hazel.vercel.app/',
               potentialAction: {
                 '@type': 'SearchAction',
-                target: 'https://mini-commerce.vercel.app/search?q={search_term_string}',
+                target: 'https://mini-commerce-theta-hazel.vercel.app/search?q={search_term_string}',
                 'query-input': 'required name=search_term_string',
               },
             }),
